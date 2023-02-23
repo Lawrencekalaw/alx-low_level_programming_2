@@ -1,3 +1,4 @@
+#include <stdio.h>
 /**
  * main- program using printf
  *
